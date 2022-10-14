@@ -22,6 +22,10 @@ I also have advanced knowledge of both structured and non-structured database sy
 
 ❔ Ask me anything about PHP and Javascript
 
+👨 Pronouns: He/Him
+
+🎈 Fun Facts: I'm a poet and a lover of music
+
 📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")
 
 <!---
