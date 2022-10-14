@@ -16,10 +16,10 @@ I also have advanced knowledge of both structured and non-structured database sy
 - MySQL
 - MongoDB
 
-- 👀 I’m interested in contributig to Open Source Projects and technical writings
-- 🌱 I’m currently learning AWS DevOp Skills
-- ❔ Ask me anything about PHP and Javascript
-- 📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")
+👀 I’m interested in contributig to Open Source Projects and technical writings
+🌱 I’m currently learning AWS DevOp Skills
+❔ Ask me anything about PHP and Javascript
+ 📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")
 
 <!---
 donmode/donmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
