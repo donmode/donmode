@@ -1,5 +1,5 @@
  👋 Hi, I’m Oladiipo Ernest, a Solution Provider extraordinare! I am a Backend-Heavy Fullstack developer.
- I have mastered PHP and Javascript for over 4 years. Below are some of the PHP and Javascript frameworks and technologies I've mastered over the years:
+ I have mastered PHP and Javascript for over 5 years. Below are some of the PHP and Javascript frameworks and technologies I've mastered over the years:
  
  PHP Frameworks:
 - CakePHP
