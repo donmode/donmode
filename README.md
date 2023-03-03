@@ -7,6 +7,7 @@
 
  Javascript Technologies:
 - React JS
+- Next JS
 - Node JS
 - Express
 
