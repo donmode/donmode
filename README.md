@@ -30,7 +30,7 @@ I also have advanced knowledge of both structured and non-structured database sy
 
 🎈 Fun Facts: I'm a poet and a lover of music
 
-📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")  | Website: [my_port_folio]("https://oladiipoernest.netlify.app/")
+📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")  | Website: [https://oladiipoernest.netlify.app/]("https://oladiipoernest.netlify.app/")
 
 <!---
 donmode/donmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
