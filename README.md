@@ -8,6 +8,7 @@
  Javascript Technologies:
 - React JS
 - Next JS
+- Nest JS
 - Node JS
 - Express
 
@@ -19,7 +20,9 @@ I also have advanced knowledge of both structured and non-structured database sy
 
 👀 I’m interested in contributig to Open Source Projects and technical writings
 
-🌱 I’m currently learning AWS DevOp Skills
+🌱 I’m currently taking AWS Services one after the other and mastering them
+
+🐙 I take my Docker expertise to a new level every day
 
 ❔ Ask me anything about PHP and Javascript
 
@@ -27,7 +30,7 @@ I also have advanced knowledge of both structured and non-structured database sy
 
 🎈 Fun Facts: I'm a poet and a lover of music
 
-📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")
+📫 How to reach me: Twitter: [@OladiipoErnest](https://twitter.com/OladiipoErnest "Oladiipo Ernest's Twitter") | Email: [osanyinlokunoladiipo@gmail.com](mailto:osanyinlokunoladiipo@gmail.com "Oladiipo Ernest's Mail")  | Website: [https://oladiipoernest.netlify.app]("https://oladiipoernest.netlify.app/")
 
 <!---
 donmode/donmode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
